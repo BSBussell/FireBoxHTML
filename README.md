@@ -8,8 +8,6 @@
 > [Weilin Ouyang](https://github.com/wouyang2)
 
 ### To Play
-To download an executable for the game click [here.](https://github.com/utk-cs340-fall22/FireBox/releases/tag/Final)
-
 If you would like to play from a web browser click [here.](https://bsbussell.github.io/FireBoxHTML/)
 
 
