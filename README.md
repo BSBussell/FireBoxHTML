@@ -74,15 +74,6 @@ The Godot Engine can be downloaded [here.](https://godotengine.org/download)
 To open for development, download Godot and import the `/Godot\ Files/project.godot` file.
 To run the program from there you just press the arrow in the top right corner.
 
-### **Style Guide and standards for Development:**
-
-**All Changes should be commit'd to your own branch and then merged into the main in order to prevent accidental conflicts**
-Merges should be overseen by a **minimum of two people** counting the author of the branch.
-Before overwriting someone else's code on main you should double check your changes with them
-
-
-We will just be using the Godot reccomended style guide found [here.](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html)
-
 ### Licensing
 Our Godot licensing can be found [here.](https://github.com/utk-cs340-fall22/FireBox/blob/main/License.txt)
 
