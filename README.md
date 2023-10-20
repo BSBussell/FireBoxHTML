@@ -1,4 +1,8 @@
+<!--
+UTK Stole my LOGO!!!!
 <img src="https://github.com/utk-cs340-fall22/FireBox/blob/main/FireBoxLogo.png" alt="" width="384" height="216" />
+-->
+# FireBox
 
 > Developed by: 
 <br> [Dylan Ables,](https://github.com/Dables1)
